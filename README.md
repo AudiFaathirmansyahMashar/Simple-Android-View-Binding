@@ -18,7 +18,7 @@ Remove findViewById()
   android:layout_height="wrap_content"/>
 ```
 
-2. Type syntax below, in your MainActivity.class
+3. Type syntax below, in your MainActivity.class
 ```java
 private ActivityMainBinding binding;  
   
